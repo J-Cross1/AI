@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\j-cro\onedrive\documents\uni year 2\ai\lab34\lab34\main.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\j-cro\onedrive\documents\uni year 2\ai\lab34\lab34\main.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\j-cro\onedrive\documents\uni year 2\ai\lab34\lab34\main.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\j-cro\onedrive\documents\uni year 2\ai\lab34\lab34\main.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lab34.vcxproj -> C:\Users\J-Cro\OneDrive\Documents\Uni Year 2\AI\Lab34\Debug\Lab34.exe
